@@ -1,1 +1,1 @@
-Personal website homepage, based on the template Aerial from html5up.net
+Personal website homepage, based on the template Aerial from [HTML5 UP](https://html5up.net)
